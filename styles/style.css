@@ -203,7 +203,6 @@
   padding: 33px 24px 180px 71px;
 }
 
-.about__column { }
 
 .about__logo {
   width: 240px;
@@ -244,7 +243,7 @@
 .footer__menu {
   justify-self: center;
 }
-.footer__address{
+.footer__address {
   max-width: 265px;
 }
 .footer__menu-list {
